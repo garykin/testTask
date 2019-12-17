@@ -1,0 +1,5 @@
+.vs/
+test-task/bin/
+test-task/obj/
+UnitTests/bin/
+UnitTests/obj/
